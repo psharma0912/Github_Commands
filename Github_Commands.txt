@@ -1,4 +1,3 @@
-etrieve an entire repository from a hosted location via URL
 
 
 1. pwd - present working directory
